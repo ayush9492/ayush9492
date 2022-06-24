@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush9492
 - 👀 I’m interested in data science field
-- 🌱 I’m currently learning data analysis with python
+- 🌱 I’m currently learning machine learning algorithms 
 - 🚏 you can DM me on my linkedin : https://www.linkedin.com/in/ayush-bharatiya-78a080202/
 
 <!---
