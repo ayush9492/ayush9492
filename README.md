@@ -16,9 +16,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayush9492&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
-  ## 💰 You can help me by Donating
+  ## 💰 SUPPORT : 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayush9492) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
