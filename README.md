@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Ayush Bharatiya<br>👀 I’m data science enthusiast<br>🌱 I’m currently learning machine learning algorithms<br>🚏 you can DM me on my linkedin : https://www.linkedin.com/in/ayush-bharatiya-78a080202/
 
 
