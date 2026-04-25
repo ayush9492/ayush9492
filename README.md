@@ -3,7 +3,7 @@
 
 I’m a Machine Learning Engineer and Data Science enthusiast with a strong passion for building data-driven solutions that create real-world impact. With over 4 years of experience, I’ve worked across domains like finance and computer vision, developing scalable machine learning systems and transforming complex data into actionable insights.
 
-I enjoy solving challenging problems—whether it’s designing automated stock-screening algorithms, building real-time analytics dashboards, or deploying end-to-end ML pipelines. My work has helped reduce manual effort, improve decision-making speed, and deliver measurable business value.
+I enjoy solving challenging problems whether it’s designing automated stock-screening algorithms, building real-time analytics dashboards, or deploying end-to-end ML pipelines. My work has helped reduce manual effort, improve decision-making speed, and deliver measurable business value.
 
 Currently, I’m pursuing my Master’s in Computer Science at Illinois Institute of Technology, where I’m deepening my knowledge of machine learning, AI, and advanced data systems. I’m always exploring new technologies and refining my skills in Python, deep learning frameworks, and data engineering tools.
 
